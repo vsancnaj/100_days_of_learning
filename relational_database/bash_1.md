@@ -54,6 +54,10 @@ Created: March 14, 2023 11:38 AM
     ```bash
     mv <filename> <new_filename>
     ```
+    ```bash
+    find 
+    find -name <filename>
+    ```
     
 - 🚩flag
     - add a flag to a command to use it different ways
