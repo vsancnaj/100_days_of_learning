@@ -1,1 +1,1 @@
-# 100_days_of_learning
+# 2023 CORE: Data Science and Machine Learning
