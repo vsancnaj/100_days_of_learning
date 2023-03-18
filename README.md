@@ -1,1 +1,1 @@
-# 2023 CORE: Data Science and Machine Learning
+# Data Science and Machine Learning Courses
