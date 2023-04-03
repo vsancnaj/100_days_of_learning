@@ -1,6 +1,6 @@
 # Data Science and Machine Learning Courses
 
-Topics included:
+Topics included
 
 1. Scripting Languages: Python, SQL, R
 2. Data Visualisation: Excel & Tableau
